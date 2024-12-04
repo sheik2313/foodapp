@@ -1,0 +1,24 @@
+
+.bg{
+    background-color: black;
+    width: 1520px;
+    height: 100vh;
+}
+.welcome{
+    padding-top: 100px;
+    color: white;
+    padding-left: 600px;
+    width: 100%;
+    
+}
+.fdpara{
+    text-align:left;
+    color: white;
+    padding-top: 50px;
+}
+img{
+    height: 300px;
+    width: 500px;
+}
+
+

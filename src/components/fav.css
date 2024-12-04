@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+
+.main-content {
+    margin-left: 220px; 
+    /* padding: 20px; */
+    flex: 1;
+}
+
+h1 {
+    color: #ff7f50; 
+    text-align: center;
+    /* margin-top: 50px; */
+    font-size: 36px;
+}
+

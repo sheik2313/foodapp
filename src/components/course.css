@@ -1,0 +1,17 @@
+#course{
+    margin-left: 550px;
+    padding-top: 100px;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+}
+.listss{
+    margin-left: 600px;
+    margin-top: 50px;
+    color: white;
+}
+.full-bg{
+    background-color: black;
+    width: 1550px;
+    height: 100vh;
+}
